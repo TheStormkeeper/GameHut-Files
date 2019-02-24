@@ -6,7 +6,7 @@ These files are owned (and initially released by) Jon Burton, and I'm just uploa
 
 I also list the associated videos in relation to each of the files below, as well as providing a link to the associated video in the associated folder.
 
-Please also note that these files require a copy of ASM68k, available <a href="http://info.sonicretro.org/File:ASM68k.7z">here</a>, and <a href="http://www.7-zip.org">7zip</a> (to open the archives). 
+Please also note that these files require a copy of ASM68k, available <a href="http://info.sonicretro.org/File:ASM68k.7z">here</a>, and <a href="http://www.7-zip.org">7zip</a> to open the ASM68k.7z file. 
 
 For further support with regards to these files, you can join the GameHut Discord here, and then go to the channel "genesis-code".
 
