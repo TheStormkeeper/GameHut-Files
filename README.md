@@ -1,5 +1,4 @@
-# GameHut
-Gamehut Files
+# GameHut Files
 Github repository for GameHut's "Learn To Code!" YouTube series which deals with coding for the Sega Mega Drive/Genesis console, gathered here for ease of acquisition.
 
 These files are owned (and initially released by) Jon Burton, and I'm just uploading them here so it's easier for people to download the files in one go without having to get all the files separately from Dropbox! I will try to keep this repository up to date where possible, as and when new file and video releases in the series are made available.
